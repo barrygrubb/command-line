@@ -1,0 +1,5 @@
+The wc shell command is used to display the number of lines, words and bytes with a given input file. For example:
+
+wc readme.txt
+
+...might return 5 40 249, signifying that the readme.txt file contains 5 lines, 40 characters and 249 bytes.
