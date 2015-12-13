@@ -1,0 +1,5 @@
+The mv shell command moves a file or directory from its current location to another specified location, as shown below: 
+
+mv <current location> <destination>
+
+The mv shell command can also be used to rename a file or directory, by specifying a new file/directory name in the current location.
