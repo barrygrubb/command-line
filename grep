@@ -1,0 +1,5 @@
+The grep shell command is used to search for a pattern within a given file(s). As an example:
+
+grep "hello" text.txt
+
+...would search for instances of the pattern "hello" within the file text.txt, returning any lines which contain the pattern.
